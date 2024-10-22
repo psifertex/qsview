@@ -1,12 +1,23 @@
-# QSettings Viewer
-Author: **psifertex**
+# QSettings Viewer (v1.0.1)
+Author: **Jordan Wiens**
 
-_Simple plugin to view the QSettings in a QTreeView_
+_QSettings Viewer_
 
 ## Description:
 
-No longer description necessary.
+
+None
+
+## Minimum Version
+
+This plugin requires the following minimum version of Binary Ninja:
+
+* 3164
+
 
 ## License
 
-This plugin is released under an [MIT license](./license).
+This plugin is released under a MIT license.
+## Metadata Version
+
+2
